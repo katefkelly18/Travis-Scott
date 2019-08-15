@@ -21,6 +21,7 @@ p {
 
 img {
   float: left;
+  padding: 40px;
 }
 
 .my-class {
@@ -56,17 +57,21 @@ img {
 
 .travie {
   float: right;
+  padding: 40px;
 }
 
 .sidebar {
   border: 5px solid blue;
   padding: 20px;
+  margin-left: 20px;
+  background-color: pink;
 }
 
 .sidebar2 {
   border: 5px solid yellow;
   text-align: right;
   padding: 20px;
+  background-color: orange;
 }
 
 li {
