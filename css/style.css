@@ -1,0 +1,74 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+p {
+  color: red;
+
+}
+
+.instructor {
+  font-style: italic;
+}
+
+.laugh {
+  font-weight: bold;
+}
+
+img {
+  float: left;
+}
+
+.my-class {
+  border: 3px solid black;
+  padding: 6px;
+  margin: 12px;
+  background: black;
+  color: white;
+}
+
+.more-class {
+  border: 3px solid red;
+  padding: 6px;
+  margin: 12px;
+  background: red;
+  color: white;
+
+}
+
+.rapper {
+    font-style: italic;
+}
+
+.important {
+  text-align: left;
+  padding: 20px;
+}
+
+.unimportant {
+  text-align: right;
+  padding: 20px;
+}
+
+.travie {
+  float: right;
+}
+
+.sidebar {
+  border: 5px solid blue;
+  padding: 20px;
+}
+
+.sidebar2 {
+  border: 5px solid yellow;
+  text-align: right;
+  padding: 20px;
+}
+
+li {
+  list-style-type: none;
+}
